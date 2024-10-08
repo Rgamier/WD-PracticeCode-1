@@ -1,0 +1,49 @@
+body{
+	padding-left: 11em;
+	color: lightgray;
+	background-color: black;
+	background-image: url(black-background-03-unsplash.png);
+	font-family: 'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial, Sans-Serif;
+}
+h1{
+	font-family: impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifl;
+
+}
+ul.navbar{
+	position:absolute;
+	top:2em;
+	left:1em;
+	width:9em;
+	list-style-type: none;
+	padding:0;
+	margin:0;
+}
+ul.navbar li{
+	background-color: rgb(83, 83, 83);
+	color: rgb(255, 255, 255);
+	border-right: lem solid rgb(0, 0, 0);
+	margin: 0.5em 0;
+	padding: 0.3em;
+}
+ul.navbar a{
+	text-decoration: none;
+}
+a:link{
+	color:rgb(0, 0, 0);
+}
+
+h4 {
+	font-weight: 50;
+}
+p.footer {
+	font-family: 'courter New', Courier, monospace;
+	font-size: xx-medium;
+}
+
+img	{
+	width: 500px;
+	height: auto;
+	margin-left: 200px;
+	margin-left: 20px;
+	border-radius: 10px;
+}>
